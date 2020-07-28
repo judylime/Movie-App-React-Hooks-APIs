@@ -67,3 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Movie_App-React
+
+https://www.skillshare.com/classes/React-JS-Beginner-Fundamentals-Project-Movie-App-Hooks-2020/1385179036
